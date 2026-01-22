@@ -1,2 +1,2 @@
 # WU-HF-TEAM
-Teamwork
+Teamwork project
