@@ -1,2 +1,3 @@
 # WU-HF-TEAM
-Teamwork project
+- Teamwork project
+(Branching and .git)
