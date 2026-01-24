@@ -5,10 +5,10 @@
 
 /* COLORS */
 :root{ 
-    --white: #efefef;
-    --black: #13131a;
-    --dark-red: #bd4646;
-    --light-red: #c86262;
+    --white: #ffffff;
+    --black: #000000;
+    --dark-red: #b60000;
+    --light-red: #d10000;
     --skin-red: #e79687;
     --light-blue: #4d8ac7;
     --link-static: #bd4646;
