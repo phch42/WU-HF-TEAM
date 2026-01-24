@@ -65,3 +65,4 @@ function checkFormValidity() {
 function validateForm() {
     return !submitBtn.disabled; // Only submit if button is enabled
 }
+// BUG FIX
