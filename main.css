@@ -1,0 +1,56 @@
+/* IMPORT */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+@import url(nav.css);
+
+/* COLORS */
+:root{ 
+    --white: #efefef;
+    --black: #13131a;
+    --dark-red: #bd4646;
+    --light-red: #c86262;
+    --skin-red: #e79687;
+    --light-blue: #4d8ac7;
+    --link-static: #bd4646;
+    --link-active:#a13b3b;
+}
+
+/* ===========================
+   BASE STYLES
+   =========================== */
+body, h1,h2,h3,p,ul {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background:#f5f5f5;
+    color:#333;
+}
+
+/* ===========================
+   HEADER
+   =========================== */
+.header-main {
+    background:#333;
+    color:#fff;
+    text-align:center;
+    padding:2rem;
+}
+.header-main h1 {
+    font-size:2.5rem; /* Main title */
+}
+.header-main h2 {
+    font-size:1.5rem; /* Subtitle */
+    font-weight:300;
+}
+
+/* ===========================
+   SECTIONS (GENERAL)
+   =========================== */
+section {
+    padding:2rem;
+    margin:1rem auto;
+    max-width:1200px;
+}
